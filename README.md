@@ -40,13 +40,10 @@ Actualización optimizada (3s) para reducir el impacto del monitor en el sistema
 
 📸 Capturas de Pantalla
 
-|
-
-| Resumen General | Carga por Núcleo |
-|  |  |
-
-| Gráficas en Vivo | Procesos |
-|  |  |
+![General](assets/captura_general.png)
+![Núcleos](assets/captura_nucleos.png)
+![Procesos](assets/captura_procesos.png)
+![Gráficas](assets/captura_graficas.png)
 
 🛠️ Requisitos del Sistema
 
